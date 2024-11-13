@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(124, 189, 167);
+justify-self: center;
+}
+
+form
+{justify-self: center;
+    border: 2px solid white ;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: rgb(177, 233, 214);
+
+}
+input{
+    border-radius: 5px;
+    margin: 5px;
+}
+.submit{
+    margin-left: 40%;
+
+}
+.file{
+    border-radius:10px;
+}
+
+}
+h3{
+    text-align: center;
+}
